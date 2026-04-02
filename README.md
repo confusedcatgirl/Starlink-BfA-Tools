@@ -1,2 +1,3 @@
 # Starlink-BfA-Tools
-Tools to Mod Starlink: Battle for Atlas
+
+Currently, it is not very structured, just bare bones for the LocPackTool.
